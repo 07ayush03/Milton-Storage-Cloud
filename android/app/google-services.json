@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "791784364015",
+    "project_id": "milton-cloud",
+    "storage_bucket": "milton-cloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791784364015:android:ffd94aa6fc7556ec56481a",
+        "android_client_info": {
+          "package_name": "com.milton.cloudapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791784364015-pkifd4j04jer6gighcp450dova2g9gdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.milton.cloudapplication",
+            "certificate_hash": "198d5edc74e8e5c56670f4fc095b09c30260c05e"
+          }
+        },
+        {
+          "client_id": "791784364015-f9qd8gje3e3imqoreom64avajhvdp481.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyv6AtY4zLZVEpxLzCocpw68DYlU6mlDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791784364015-f9qd8gje3e3imqoreom64avajhvdp481.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

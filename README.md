@@ -1,16 +1,6 @@
-# app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A cloud storage application used to store media and documents.
+This solution enhances productivity and provides robust data protection.
+![WhatsApp Image 2024-07-11 at 01 11 24_7b831b95](https://github.com/07ayush03/Milton-Storage-Cloud/assets/92880288/7b2d3e87-af4d-46ea-94ff-81595dfb3aab)
+![WhatsApp Image 2024-07-11 at 01 11 34_c494d3a2](https://github.com/07ayush03/Milton-Storage-Cloud/assets/92880288/5dfba8dc-0db8-4bb2-83fc-b2670c03965e)
+![WhatsApp Image 2024-07-11 at 01 11 34_8c9fb0da](https://github.com/07ayush03/Milton-Storage-Cloud/assets/92880288/6f55e5cd-7545-483f-b1e9-f343cd363aea)
